@@ -1,4 +1,4 @@
-# Coffee Shop Domain Modeling
+# Coffee Shop 
 
 # Overview
 The Coffee Shop project is a simple implementation of a coffee shop management system using Python classes. It includes classes for Customer, Coffee and Order, each with methods for defining object relationships and implementing aggregate and association methods.
